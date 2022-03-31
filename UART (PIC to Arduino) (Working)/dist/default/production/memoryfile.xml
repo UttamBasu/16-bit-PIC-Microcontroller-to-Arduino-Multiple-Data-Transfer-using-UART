@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/UART__PIC_to_Arduino___Working_.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>32768</length>
+      <used>424</used>
+      <free>32344</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>527616</length>
+      <used>17967</used>
+      <free>509649</free>
+    </memory>
+  </executable>
+</project>
